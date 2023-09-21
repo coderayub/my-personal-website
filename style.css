@@ -37,3 +37,8 @@ section{
     background-image: url(images/header-bg.png);
     background-repeat: none;
 }
+
+.biography-highlight{
+    font-size: 40px;
+    margin-top:200px;
+}
